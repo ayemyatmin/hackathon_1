@@ -1,0 +1,29 @@
+.appbar{
+  margin-bottom: 16px
+}
+.recipe-editor{
+  display:flex;
+  flex-direction: column;
+  max-width:400px;
+}
+.recipe-container{
+  width: 260px;
+  margin-top:16px;
+  margin-right:16px;
+}
+.recipes-container{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding:16px;
+}
+.form-input{
+  margin-bottom:16px;
+}
+body{
+  background-color: rgb(231, 235, 240);
+  margin:0;
+}
+.app-container{
+  margin:26px;
+}
